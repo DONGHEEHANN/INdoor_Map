@@ -4,8 +4,8 @@
 
 ### 개별 Repository Link
 
-[Frontend : APP(Flutter)](https://github.com/PROMLEE/Indoor_map_flutter)
+[Frontend : APP(Flutter)](https://github.com/easthee/INdoor_flutter)
 
-[Backend : Algoritm(Python) + Server(Flask)](https://github.com/PROMLEE/Indoor_map_algorithm)
+[Backend : Algoritm(Python) + Server(Flask)](https://github.com/easthee/INdoor_Server)
 
-[부가기능: WEB(React)](https://github.com/PROMLEE/Indoor_map_react)
+[부가기능: WEB(React)](https://github.com/easthee/INdoor_Extra)
